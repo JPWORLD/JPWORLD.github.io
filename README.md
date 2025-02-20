@@ -1,7 +1,3 @@
-Here’s a **sleek and engaging** **GitHub About section** for you, filled with **emojis and tags** to make it stand out! 🚀  
-
----
-
 # **👋 Hey there, I'm Jai Prakash!**  
 **🚀 Product Developer | 🎯 Project Manager | 💡 AI & NLP Enthusiast**  
 
